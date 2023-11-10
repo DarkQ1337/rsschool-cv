@@ -36,6 +36,7 @@ def index(request):
 ## Education
 
  - **School :** Unloved school (11th grade)
+ - **Unik :** Unloved University (2 lost years)
  - **Courses:** 
 	 - [Python Full Course for free (12 Hr)](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 	 - [Python Django 7 Hour Course (7 Hr)](https://youtu.be/PtQiiknWUcI)
